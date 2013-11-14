@@ -24,3 +24,7 @@ print data
     'mp4_stream': u '...'
 }
 ```
+
+#### disclaimer
+
+this project is not affiliated with or endorsed by <a href="https://vine.co/">Vine Labs</a>. 
